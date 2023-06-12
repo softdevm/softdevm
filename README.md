@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=softdevm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I am a software engineer with over 10 years of experience in software development. I have a strong knowledge of both front-end & back-end development, web scraping, as well as API development using Python, Django, Scrapy, React, and Vue.js. 
+I am a senior software engineer with over 10 years of experience in software development. I have a strong knowledge of both front-end & back-end development, web scraping, as well as API development using Python, Django, Scrapy, React, and Vue.js. 
 I have professional experience in object-oriented programming languages such as Python and JavaScript.
 <br>
 
